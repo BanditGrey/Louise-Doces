@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# TROQUE pelo seu domínio real quando o site for publicado
+Sitemap: https://www.lousdoces.com.br/sitemap.xml
